@@ -1,1 +1,1 @@
-# Sinus function
+# HarmonicMotionSimulator
